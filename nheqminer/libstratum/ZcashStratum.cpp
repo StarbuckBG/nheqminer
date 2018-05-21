@@ -134,6 +134,8 @@ void static XenoncatZcashMinerThread(ZcashMiner* miner, int size, int pos)
 	unsigned int k = PARAMETER_K;
 
     std::shared_ptr<std::mutex> m_zmt(new std::mutex);
+    std::cout << "n " << n << "\n";
+    std::cout << "k " << k << "\n";
     CBlockHeader header;
     arith_uint256 space;
     size_t offset;

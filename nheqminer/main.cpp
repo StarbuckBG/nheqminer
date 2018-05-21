@@ -16,7 +16,6 @@
 #include "speed.hpp"
 #include "api.hpp"
 
-
 // TODO:
 // fix compiler issues with standard vs2013 compiler
 // file logging
@@ -77,7 +76,6 @@ int main(int argc, char* argv[])
 	std::cout << "Thanks to Zcash developers and community, nicehash, tromp, kost and xenoncat, justvanbloom. Donate!" << std::endl;
 	std::cout << "BTC:12Yc3Ezayhnm4X9x3nxV7vWY1h2qpWgajc" << std::endl;
 	std::cout << std::endl;
-
     std::string location = "pool.gold:3038";
 	std::string user = "GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw";
 	std::string password = "x";

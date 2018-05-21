@@ -21,8 +21,8 @@
 
 #include <boost/static_assert.hpp>
 
-#define PARAMETER_N 200
-#define PARAMETER_K 9
+#define PARAMETER_N 144
+#define PARAMETER_K 5
 
 #ifdef _DEBUG
 #define LogPrint(x, ...) printf(x " | " __VA_ARGS__);
