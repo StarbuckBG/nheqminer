@@ -4,7 +4,7 @@ Equihash/zcash/zec miner (can be used for pool mining)
 
 # Mac Version Download
 
-[Mac Miner Download!](https://github.com/justvanbloom/nheqminer/raw/kost/mac/nheqminer.zip)
+[Mac Miner Download!](https://github.com/StarbuckBG/nheqminer-bitcoin-gold/releases/download/v0.4-BTG/BTG-nheqminer.zip)
 
 
 # Features
@@ -24,20 +24,10 @@ Platforms:
 
 
 ### nicehash
-`nheqminer -l equihash.eu.nicehash.com:3357 -u YourBitcoinAdress.YourWorker -p x -t threadCount`
+`nheqminer -l eu.pool.gold:3044 -u YourBitcoinAdress.YourWorker -p x -t threadCount`
 
 Example
-`nheqminer -l equihash.eu.nicehash.com:3357 -u 1GaGRtcCjb7ThaDgDLjgVwV8fctzEf12ct -p x -t 4`
-
-### flypool
-`nheqminer -l eu1-zcash.flypool.org:3333 -u ZcashTransparentAddress`
-
-### suprnova
-`nheqminer -l zec.suprnova.cc:2142 -u suprnovaaccount.1 -p x -t threadCount`
-
-### zmine
-`nheqminer  -l zmine.io:1337 -u ZcashTransparentAddress`
-
+`nheqminer -l eu.pool.gold:3044 -u GSrP5KGxrgBXV1kQkAPy2g3fmgcUeoESMw.worker -p x -t 4`
 
 
 ## Production usage
@@ -216,4 +206,5 @@ Author of Mac GUI for this miner: JustVanBlooM
 
 If you feel this project is useful to you. Feel free to donate.
 
-    BTC address: 1GaGRtcCjb7ThaDgDLjgVwV8fctzEf12ct
+    BTC address StarbuckBG : 12Yc3Ezayhnm4X9x3nxV7vWY1h2qpWgajc
+    BTC address Just Van Bloom: 1GaGRtcCjb7ThaDgDLjgVwV8fctzEf12ct
