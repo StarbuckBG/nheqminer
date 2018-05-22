@@ -38,7 +38,7 @@ typedef u32 au32;
 #endif
 
 #ifndef RESTBITS
-#define RESTBITS	8
+#define RESTBITS	4
 #endif
 
 // 2_log of number of buckets
